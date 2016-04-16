@@ -1,0 +1,6 @@
+# IDE project files
+/.idea
+/nbproject
+
+# build artifacts
+build
